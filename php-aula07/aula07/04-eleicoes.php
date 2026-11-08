@@ -3,13 +3,13 @@
 <head>
   <link rel="stylesheet" href="_css/estilo.css"/>
   <meta charset="UTF-8"/>
-  <title>Curso de PHP - CursoemVideo.com</title>
+  <title>Curso de PHP </title>
 </head>
 <body>
 <div>
     <?php
        $ano = $_GET["an"];
-       $idade = 2014 - $ano;
+       $idade = 2026 - $ano;
        echo "Quem nasceu em $ano tem idade de $idade anos.";
        $tipo = ($idade>=18 && $idade<65)?"OBRIGATORIO":"NAO OBRIGATORIO";
        echo " E dessa forma seu voto e $tipo";
