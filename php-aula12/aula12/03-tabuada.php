@@ -3,7 +3,7 @@
 <head>
   <link rel="stylesheet" href="_css/estilo.css"/>
   <meta charset="UTF-8"/>
-  <title>Curso de PHP - CursoemVideo.com</title>
+  <title>Curso de PHP</title>
   <style>
 	h1 { font: 20pt Arial; }
   </style>
@@ -19,7 +19,7 @@
 	   }
     ?>
 	<br/>
-	<a href="javascript:history.go(-1)" class="botao">Voltar</a>
+	<a href="03-index.html" class="botao">Voltar</a>
 </div>
 </body>
 </html>

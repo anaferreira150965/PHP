@@ -15,6 +15,7 @@
         } while($c<=10);
         
     ?>
+    <a href="01-index.html">Voltar</a>
 </div>
 </body>
 </html>
